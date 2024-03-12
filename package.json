@@ -1,5 +1,5 @@
 {
-  "name": "MaxBoom-server",
+  "name": "MaxBoom",
   "version": "1.0.0",
   "description": "backbone for MaxBoom app",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [
-    "MaxBoom-server"
+    "MaxBoom"
   ],
   "author": "Salman",
   "license": "MIT",
